@@ -5,7 +5,7 @@ Mayowa Oludoyi <br/>
 DevOps
 ___
 Sanusi Muhyideen<br/>
-Front-end Web: HTML, CSS and JS
+Front-end Web: HTML, CSS, and JS
 ___
 Name <br/>
 Track
